@@ -3,7 +3,7 @@ ____________________
 Welcome to sheeponic! 
 ____________________
 
-<h2> This game can pe played/downlaoded on: / Acest joc poate fi jucat sau downloadat de pe: </h2>
+<h2> This game can pe played or downloaded on: / Acest joc poate fi jucat sau downloadat de pe: </h2>
 
 <h2> https://ycplay.itch.io/sheeponic3 </h2>
 
