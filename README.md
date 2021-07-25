@@ -21,6 +21,7 @@ ____________________
 <li>Categorie: Utilitar</li>
 <li>Judetul: București</li>
 <li>Surse: <a href="https://github.com/dirgnic/sheeponic">https://github.com/dirgnic/sheeponic</a>
+<li> Pe acest link se gasesc script-urile in C#: https://github.com/dirgnic/sheeponic/tree/game-files/tryGame/Assets/thingsNeeded/Scripts <\li>
 </li>
 </ul>
 <h2>Aplicatii Utilizate</h2>
