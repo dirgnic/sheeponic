@@ -9,11 +9,11 @@ https://ycplay.itch.io/sheeponic3
 
 (latest version)
 
-External resource packs used (+ other resouces): / Pachete de resurse externe utilizate + alte resurse:
-https://assetstore.unity.com/packages/3d/vehicles/sea/brig-sloop-sailing-ship-77862
-https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351
-https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576
-https://music.youtube.com/watch?v=g8GIAoruOW8&feature=share
+<h2> External resource packs used (+ other resouces): / Pachete de resurse externe utilizate + alte resurse: </h2>
+<li> https://assetstore.unity.com/packages/3d/vehicles/sea/brig-sloop-sailing-ship-77862 </li>
+<li> https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351 </li>
+<li> https://assetstore.unity.com/packages/2d/textures-materials/sky/customizable-skybox-174576 </li>
+<li> https://music.youtube.com/watch?v=g8GIAoruOW8&feature=share </li>
 -------------------------------------------------------------------------------------------------
 
 <h2>Informatii generale</h2>
