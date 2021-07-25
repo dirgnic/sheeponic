@@ -25,7 +25,7 @@ https://music.youtube.com/watch?v=g8GIAoruOW8&feature=share
 </ul>
 <h2>Aplicatii Utilizate</h2>
 <li> Blender3D (grafica, modelare, materiale, texturi, rigging, animatii) </li>
-<li> Unity3D (+ programare in C# in Visual Studio) (logica jocului, asambladrea lumii (grafica), fizica valurilor/miscarii, materiale </li>
+<li> Unity3D (+ programare in C# in Visual Studio) (logica jocului, asambladrea lumii (grafica), fizica valurilor/miscarii, materiale) </li>
 <li> Krita (grafica) </li>
 <h2>Descriere</h2>
 <p>Sheeponic este un joc facut in Unity3D, Blender3D si Krita. Jucatorul se afla pe o barca, vede peisajul in 360 de grade, scopul este sa evite oile si sa ajunga la insula. Exista 3 vieti (coltul din dreapta), insa interactiunea cu oile poate darama barca! Jocul poate fi jucat intr-un mod strategic, puteti ajunge cu succes la insula?</p>
