@@ -3,11 +3,11 @@ ____________________
 Welcome to sheeponic! 
 ____________________
 
-This game can pe played/downlaoded on: / Acest joc poate fi jucat sau downloadat de pe:
+<h2> This game can pe played/downlaoded on: / Acest joc poate fi jucat sau downloadat de pe: </h2>
 
-https://ycplay.itch.io/sheeponic3
+<h2> https://ycplay.itch.io/sheeponic3 </h2>
 
-(latest version)
+<p> (latest version) </p>
 
 <h2> External resource packs used (+ other resouces): / Pachete de resurse externe utilizate + alte resurse: </h2>
 <li> https://assetstore.unity.com/packages/3d/vehicles/sea/brig-sloop-sailing-ship-77862 </li>
